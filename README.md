@@ -1,13 +1,9 @@
 # Project React Native App 📱
 
-Replace this readme with your own information about your project.
+My reflections on how this week's project turned out:
+I made an app that fetches random images from a fox-image-API either when you shake your phone or when you click on the button.
+This was a challenging week so I wish I had had more time for more functions and styling.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+See project here:
+https://expo.dev/@louisalo/project-react-native-app?serviceType=classic&distribution=expo-go
 
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
